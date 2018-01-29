@@ -15,7 +15,8 @@
   "dependencies": {},
   "peerDependencies": {
     "react": "*",
-    "react-dom": "*"
+    "react-dom": "*",
+    "server-side-render-resource": "*"
   },
   "devDependencies": {
     "autod": "^2.8.0",
